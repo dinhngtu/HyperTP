@@ -5,7 +5,7 @@
 ## HyperTP: A unified approach for live hypervisor replacement in datacenters
 Tu Dinh Ngoc, Boris Teabe, Alain Tchana, Gilles Muller, Daniel Hagimont
 
-[Paper](https://hal.science/hal-04477700)
+[Paper](https://hal.science/hal-04477700) ([Eurosys 2021 version](https://hal.science/hal-03183856))
 
 Source code:
 - [Xen](https://dev.azure.com/dinhngtu/xenkvm/_git/xen?version=GBkvmxen)
